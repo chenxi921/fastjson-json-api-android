@@ -1,6 +1,6 @@
 # fastjsonJsonApiAndroid
+[![](https://jitpack.io/v/chenxi921/fastjson-json-api-android.svg)](https://jitpack.io/#chenxi921/fastjson-json-api-android)
 
-[![Release](https://img.shields.io/github/release/webee/fastjson-json-api-android.svg?label=maven version)](https://jitpack.io/#webee/fastjson-json-api-android)
 
 java-json-api wrapper for fastjson-android.
 
