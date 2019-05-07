@@ -13,6 +13,6 @@ To install the library add:
         maven { url "https://jitpack.io" }
    }
    dependencies {
-         compile 'com.github.chenxi921:fastjson-json-api-android:v1.0.5'
+         compile 'com.github.chenxi921:fastjson-json-api-android:v1.0.6'
    }
    ```
